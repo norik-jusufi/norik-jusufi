@@ -38,11 +38,6 @@ Built for the Synterra team. Blocks ads and trackers, keeps no history on disk, 
 
 <sub>Interface shown with sample numbers.</sub>
 
-### Nexus: a search-first identity
-Logo and banner for the team's internal search tool.
-
-<img src="assets/nexus-banner.jpg" alt="Nexus banner" width="100%">
-
 ### Brand and social
 One look across everything we make: black, neon green, mono type and a grid.
 
